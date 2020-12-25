@@ -63,5 +63,5 @@ wrzesnia.pl##img[src*="/ads_files/"]
 
 www.detran.rj.gov.br##DIV[class="g-recaptcha"]
 ||google.com/recaptcha/api.js?hl=pt
-||gstatic.com/recaptcha/releases/qc5B-qjP0QEimFYUxcpWJy5B/recaptcha__pt.js
-||google.com/recaptcha/api2/webworker.js?hl=pt&v=qc5B-qjP0QEimFYUxcpWJy5B
+||gstatic.com/recaptcha/releases/*-*/recaptcha__pt.js
+||google.com/recaptcha/api2/webworker.js?hl=pt&v=*
